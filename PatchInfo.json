@@ -1,0 +1,739 @@
+{
+"Launch": {
+	"LatestVersion": 98,
+	"NewVersionUrl": "http://update.jx2huyenthoai.com/patch/Jx2HuyenThoai-v98.7z"
+},
+"LoginServerUrl": "https://jx2huyenthoai.com",
+"LatestVersion": "14.0",
+"Patches": [
+	{
+		"VersionFrom": "13.9",
+		"VersionTo": "14.0",
+		"UpTime": "2022-06-15 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-14.0.7z",
+		"Desc": "Cap nhat cuong hoa 11 va equipshop uy long"
+	},
+	{
+		"VersionFrom": "13.8",
+		"VersionTo": "13.9",
+		"UpTime": "2022-06-05 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.9.7z",
+		"Desc": "Cap nhap event trong cay luyen doc duoc"
+	},
+	{
+		"VersionFrom": "13.7",
+		"VersionTo": "13.8",
+		"UpTime": "2022-06-05 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.8.7z",
+		"Desc": "Cap nhap item cua su mon 6"
+	},
+	{
+		"VersionFrom": "13.6",
+		"VersionTo": "13.7",
+		"UpTime": "2022-06-01 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.7.7z",
+		"Desc": "Cap nhap item cua hoat dong dia huyen cung"
+	},
+	{
+		"VersionFrom": "13.5",
+		"VersionTo": "13.6",
+		"UpTime": "2022-06-01 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.6.7z",
+		"Desc": "Them trang bi cao cap thien chi tang kiem+doi ten do tuong/soai"
+	},
+	{
+		"VersionFrom": "13.4",
+		"VersionTo": "13.5",
+		"UpTime": "2022-05-18 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.5.7z",
+		"Desc": "Tra lai exp 97 98 99 nhu binh thuong"
+	},
+	{
+		"VersionFrom": "13.3",
+		"VersionTo": "13.4",
+		"UpTime": "2022-04-18 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.4.7z",
+		"Desc": "Thay doi exp len cap 97 98 99"
+	},
+	{
+		"VersionFrom": "13.2",
+		"VersionTo": "13.3",
+		"UpTime": "2022-04-18 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.4.7z",
+		"Desc": "Thay doi exp len cap 97 98 99"
+	},
+	{
+		"VersionFrom": "13.1",
+		"VersionTo": "13.2",
+		"UpTime": "2022-04-16 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.2.7z",
+		"Desc": "Cap nhap exe 5.2"
+	},
+	{
+		"VersionFrom": "13.0",
+		"VersionTo": "13.1",
+		"UpTime": "2022-04-16 06:00",
+		"Url": "https://www.fshare.vn/file/7VN93C6MBFX7",
+		"Url": "http://vl2online.com/jx2huyenthoai/up-jx2-13.1.7z",
+		"Desc": "Cap nhap patch ngoai trang moi tai dai su phong hoa"
+	},
+	{
+		"VersionFrom": "12.9",
+		"VersionTo": "13.0",
+		"UpTime": "2022-04-09 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-13.0.7z",
+		"Desc": "Cap nhap title"
+	},
+	{
+		"VersionFrom": "12.8",
+		"VersionTo": "12.9",
+		"UpTime": "2022-04-04 16:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.9.7z",
+		"Desc": "Cap nhap khong cho vut file Manh Lenh Bai Bang Hoi"
+	},
+	{
+		"VersionFrom": "12.7",
+		"VersionTo": "12.8",
+		"UpTime": "2022-03-03 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.8.7z",
+		"Desc": "Cap nhap hinh nen bat dau game"
+	},
+	{
+		"VersionFrom": "12.6",
+		"VersionTo": "12.7",
+		"UpTime": "2022-03-03 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.7.7z"
+	},
+	{
+		"VersionFrom": "12.5",
+		"VersionTo": "12.6",
+		"UpTime": "2022-03-03 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.6.7z"
+	},
+	{
+		"VersionFrom": "12.4",
+		"VersionTo": "12.5",
+		"UpTime": "2022-03-02 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.5.7z"
+	},
+	{
+		"VersionFrom": "12.3",
+		"VersionTo": "12.4",
+		"UpTime": "2022-03-02 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.4.7z"
+	},
+	{
+		"VersionFrom": "12.2",
+		"VersionTo": "12.3",
+		"UpTime": "2022-02-28 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.3.7z"
+	},
+	{
+		"VersionFrom": "12.1",
+		"VersionTo": "12.2",
+		"UpTime": "2022-02-25 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.2.7z"
+	},
+	{
+		"VersionFrom": "12.0",
+		"VersionTo": "12.1",
+		"UpTime": "2022-02-24 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.1.7z"
+	},
+	{
+		"VersionFrom": "11.9",
+		"VersionTo": "12.0",
+		"UpTime": "2022-02-18 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-12.0.7z"
+	},
+	{
+		"VersionFrom": "11.8",
+		"VersionTo": "11.9",
+		"UpTime": "2022-02-02 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.9.7z"
+	},
+	{
+		"VersionFrom": "11.7",
+		"VersionTo": "11.8",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.8.7z"
+	},
+	{
+		"VersionFrom": "11.6",
+		"VersionTo": "11.7",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.7.7z"
+	},
+	{
+		"VersionFrom": "11.5",
+		"VersionTo": "11.6",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.6.7z"
+    	},
+	{
+	      "VersionFrom": "11.4",
+	      "VersionTo": "11.5",
+	      "Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.5.7z"
+	},
+	{
+		"VersionFrom": "11.3",
+		"VersionTo": "11.4",
+		"UpTime": "2022-01-16 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.4.7z"
+	},
+	{
+		"VersionFrom": "11.2",
+		"VersionTo": "11.3",
+		"UpTime": "2022-01-16 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.3.7z"
+	},
+	{
+		"VersionFrom": "11.1",
+		"VersionTo": "11.2",
+		"UpTime": "2022-01-03 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.2.7z"
+    	},
+	{
+		"VersionFrom": "11.0",
+		"VersionTo": "11.1",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.1.7z"
+	},
+	{
+		"VersionFrom": "10.10",
+		"VersionTo": "11.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.0.7z"
+	},
+	{
+		"VersionFrom": "10.9",
+		"VersionTo": "11.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-11.0.7z"
+	},
+	{
+		"VersionFrom": "10.8",
+		"VersionTo": "10.9",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.9.7z"
+	},
+	{
+		"VersionFrom": "10.7",
+		"VersionTo": "10.8",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.8.7z"
+	},
+	{
+		"VersionFrom": "10.6",
+		"VersionTo": "10.7",
+		"UpTime": "2021-12-23 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.7.7z"
+	},
+	{
+		"VersionFrom": "10.5",
+		"VersionTo": "10.6",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.6.7z"
+	},
+	{
+		"VersionFrom": "10.4",
+		"VersionTo": "10.5",
+		"UpTime": "2021-12-15 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.5.7z"
+    	},
+	{
+		"VersionFrom": "10.3",
+		"VersionTo": "10.4",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.5.7z"
+	},
+	{
+		"VersionFrom": "10.2",
+		"VersionTo": "10.3",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.3.7z"
+	},
+	{
+		"VersionFrom": "10.1",
+		"VersionTo": "10.2",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.2.7z"
+	},
+	{
+		"VersionFrom": "10.0",
+		"VersionTo": "10.1",
+		"UpTime": "2021-12-04 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.1.7z"
+    	},
+	{
+		"VersionFrom": "9.9",
+		"VersionTo": "10.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-10.0.7z"
+	},
+	{
+	      "VersionFrom": "9.8",
+	      "VersionTo": "9.9",
+	      "Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.9.7z"
+    	},
+	{
+		"VersionFrom": "9.7",
+		"VersionTo": "9.8",
+		"UpTime": "2021-12-03 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.8.7z"
+	},
+	{
+		"VersionFrom": "9.6",
+		"VersionTo": "9.7",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.7.7z"
+    	},
+	{
+		"VersionFrom": "9.5",
+		"VersionTo": "9.6",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.6.7z"
+    	},
+	{
+		"VersionFrom": "9.4",
+		"VersionTo": "9.5",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.5.7z"
+    	},
+	{
+		"VersionFrom": "9.3",
+		"VersionTo": "9.4",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.4.7z"
+    	},
+	{
+		"VersionFrom": "9.2",
+		"VersionTo": "9.3",
+		"UpTime": "2021-11-29 06:00",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.3.7z"
+    	},
+	{
+		"VersionFrom": "9.1",
+		"VersionTo": "9.2",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.2.7z"
+    	},
+	{
+		"VersionFrom": "9.0",
+		"VersionTo": "9.2",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.2.7z"
+	},
+	{
+		"VersionFrom": "8.2.0",
+		"VersionTo": "9.2",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-9.2.7z"
+	},
+	{
+		"VersionFrom": "8.18",
+		"VersionTo": "8.2.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.2.0.7z"
+	},
+	{
+		"VersionFrom": "8.17",
+		"VersionTo": "8.18",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.18.7z"
+	},
+	{
+		"VersionFrom": "8.16",
+		"VersionTo": "8.17",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.17.7z"
+    	},
+	{
+		"VersionFrom": "8.15",
+		"VersionTo": "8.16",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.16.7z"
+	},
+	{
+		"VersionFrom": "8.14",
+		"VersionTo": "8.15",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.15.7z"
+	},
+	{
+		"VersionFrom": "8.13",
+		"VersionTo": "8.14",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.14.7z"
+	},
+	{
+		"VersionFrom": "8.12",
+		"VersionTo": "8.13",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.13.7z"
+	},
+	{
+		"VersionFrom": "8.11",
+		"VersionTo": "8.12",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.12.7z"
+	},
+	{
+		"VersionFrom": "8.10",
+		"VersionTo": "8.11",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.11.7z"
+	},
+	{
+		"VersionFrom": "8.9",
+		"VersionTo": "8.10",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.10.7z"
+	},
+	{
+		"VersionFrom": "8.8",
+		"VersionTo": "8.9",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.9.7z"
+	},
+	{
+		"VersionFrom": "8.7",
+		"VersionTo": "8.8",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.8.7z"
+	},
+	{
+		"VersionFrom": "8.6",
+		"VersionTo": "8.7",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.7.1.7z"
+	},
+	{
+		"VersionFrom": "8.5",
+		"VersionTo": "8.6",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.6.7z"
+	},
+	{
+		"VersionFrom": "8.4",
+		"VersionTo": "8.5",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.5.7z"
+	},
+	{
+		"VersionFrom": "8.3",
+		"VersionTo": "8.4",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.4.7z"
+	},
+	{
+		"VersionFrom": "8.2",
+		"VersionTo": "8.4",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.4.7z"
+	},
+	{
+		"VersionFrom": "8.1",
+		"VersionTo": "8.2",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.2.7z"
+	},
+	{
+		"VersionFrom": "8.0",
+		"VersionTo": "8.1",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.1.7z"
+	},
+	{
+		"VersionFrom": "7.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.7",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.6",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.5",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.4",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.3",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "7.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.7",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.6",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.5",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.4",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.3",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "6.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.7",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.6",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.5",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.4",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.3",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "5.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.7",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.6",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.5",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.4",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.3",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "4.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.7",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.6",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.5",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.4",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.3",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "3.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.7",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.6",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.5",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.4",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.3",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "2.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "1.9",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "1.8",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "1.2",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "1.1",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "1.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "1.0",
+		"VersionTo": "8.0",
+		"Url": "http://update.jx2huyenthoai.com/patch/files/up-jx2-8.0.7z"
+	},
+	{
+		"VersionFrom": "0",
+		"VersionTo": "12.0",
+		"Url": "https://onedrive.live.com/download?cid=8A54613C77F763CD&resid=8A54613C77F763CD%2118362&authkey=AG0t5nuzY79FCUk"
+	}
+]
+}
