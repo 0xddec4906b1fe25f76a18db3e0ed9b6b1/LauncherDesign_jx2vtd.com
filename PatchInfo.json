@@ -1,11 +1,18 @@
 {
 "Launch": {
-	"LatestVersion": 104,
-	"NewVersionUrl": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v104.7z"
+	"LatestVersion": 105,
+	"NewVersionUrl": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v105.7z"
 },
 "LoginServerUrl": "https://jx2vtd.com",
-"LatestVersion": "2.5",
+"LatestVersion": "2.6",
 "Patches": [
+	{
+		"VersionFrom": "2.5",
+		"VersionTo": "2.6",
+		"UpTime": "2022-09-09 18:30",
+		"Url": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v2.6.7z",
+		"Desc": "Đổi port đăng nhập"
+	},
 	{
 		"VersionFrom": "2.4",
 		"VersionTo": "2.5",
