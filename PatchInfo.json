@@ -15,6 +15,13 @@
 	},
 	{
 		"VersionFrom": "2.4",
+		"VersionTo": "2.6",
+		"UpTime": "2022-09-09 18:30",
+		"Url": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v2.6.7z",
+		"Desc": "Đổi port đăng nhập"
+	},
+	{
+		"VersionFrom": "2.4",
 		"VersionTo": "2.5",
 		"UpTime": "2022-09-09 00:00",
 		"Url": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v2.5.7z",
