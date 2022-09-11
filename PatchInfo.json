@@ -4,8 +4,15 @@
 	"NewVersionUrl": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v105.7z"
 },
 "LoginServerUrl": "https://jx2vtd.com",
-"LatestVersion": "2.6",
+"LatestVersion": "2.7",
 "Patches": [
+	{
+		"VersionFrom": "2.6",
+		"VersionTo": "2.7",
+		"UpTime": "2022-09-10 00:00",
+		"Url": "https://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v2.7.7z",
+		"Desc": "Fix lỗi hiển thị thiếu shop thanh long tướng của CLKT+CLTS"
+	},
 	{
 		"VersionFrom": "2.5",
 		"VersionTo": "2.6",
