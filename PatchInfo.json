@@ -3,9 +3,16 @@
 	"LatestVersion": 105,
 	"NewVersionUrl": "http://s3-hcm-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v105.7z"
 },
-"LoginServerUrl": "https://jx2vtd.com",
-"LatestVersion": "2.8",
+"LoginServerUrl": "http://jx2vtd.com",
+"LatestVersion": "2.9",
 "Patches": [
+	{
+		"VersionFrom": "2.8",
+		"VersionTo": "2.9",
+		"UpTime": "2022-09-10 00:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v2.8.7z",
+		"Desc": "Cập nhập hiển thị chỉ số skill 5độc tà độc công"
+	},
 	{
 		"VersionFrom": "2.7",
 		"VersionTo": "2.8",
