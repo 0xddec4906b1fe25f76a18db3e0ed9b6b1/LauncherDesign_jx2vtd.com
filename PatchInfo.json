@@ -4,8 +4,15 @@
 	"NewVersionUrl": "http://s3-hcm-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v106.7z"
 },
 "LoginServerUrl": "http://jx2vtd.com",
-"LatestVersion": "3.4",
+"LatestVersion": "3.5",
 "Patches": [
+	{
+		"VersionFrom": "3.4",
+		"VersionTo": "3.5",
+		"UpTime": "2022-10-02 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v3.5.7z",
+		"Desc": "Giảm thời gian luyện mật tịch"
+	},
 	{
 		"VersionFrom": "3.3",
 		"VersionTo": "3.4",
