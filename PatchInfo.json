@@ -4,8 +4,15 @@
 	"NewVersionUrl": "http://s3-hcm-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v106.7z"
 },
 "LoginServerUrl": "http://jx2vtd.com",
-"LatestVersion": "3.5",
+"LatestVersion": "3.6",
 "Patches": [
+	{
+		"VersionFrom": "3.5",
+		"VersionTo": "3.6",
+		"UpTime": "2022-10-05 06:00",
+		"Url": "http://s3-hcm-r1.longvan.net/up-jx2vtd.com/patch_v3.6.7z",
+		"Desc": "Cập nhập shop mật tịch sơ cấp"
+	},
 	{
 		"VersionFrom": "3.4",
 		"VersionTo": "3.5",
