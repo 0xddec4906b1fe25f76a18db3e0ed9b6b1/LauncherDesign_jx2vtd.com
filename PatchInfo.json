@@ -4,8 +4,15 @@
 	"NewVersionUrl": "http://s3-hcm1-r1.longvan.net/up-jx2vtd.com/Jx2VTDUpdate_v106.7z"
 },
 "LoginServerUrl": "http://jx2vtd.com",
-"LatestVersion": "3.9",
+"LatestVersion": "4.0",
 "Patches": [
+	{
+		"VersionFrom": "3.9",
+		"VersionTo": "4.0",
+		"UpTime": "2022-10-17 06:00",
+		"Url": "http://s3-hcm1-r1.longvan.net/up-jx2vtd.com/patch_v4.0.7z",
+		"Desc": "Cập nhập equipshop da quy 7"
+	},
 	{
 		"VersionFrom": "3.8",
 		"VersionTo": "3.9",
